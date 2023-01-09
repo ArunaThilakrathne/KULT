@@ -1,0 +1,195 @@
+@font-face{
+    font-family:"Poppins";
+    src: url(Poppins-Regular.ttf);
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Popins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(#2e1d83,#7e1ebe,#d45fb9,#ba45c1,#43194f,#43194f,#43194f,#43194f,#43194f,#43194f);
+    overflow-x:hidden;
+}
+
+header{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    padding:30px 100px;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    z-index:1000;
+}
+.logo {
+    color: white;
+    font-weight: 900;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: uppercase;
+   
+}
+header ul{
+    display:flex;
+    justify-content:center;
+     align-items:center;
+}
+
+header ul li {
+    list-style: none;
+   
+}
+
+header ul li a {
+    text-decoration:none;
+    padding:6px 15px;
+    color:white;
+    border-radius:20px;
+}
+ header ul li a:hover{
+     background:white;
+     color:black;
+
+ }
+ .foot 
+ {
+     text-decoration:none;
+     color:white;
+     width:100%;
+     position:relative;
+     padding-left:20px;
+     
+ }
+ .foot a{
+     text-decoration:none;
+     color:white;
+ }
+ section{
+     position:relative;
+     width:100%;
+     height:100vh;
+     padding:100px;
+     display:flex;
+     justify-content:center;
+    /* align-items:center;*/
+     overflow:hidden;
+
+ }
+    section::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 100px;
+        background: linear-gradient(to top,#120325,transparent);
+        z-index: 15;
+    }          
+ section img{
+     position:absolute;
+     top:0;
+     left:0;
+     width:100%;
+     height:100%;
+     object-fit:cover;
+     pointer-events:none;
+ }
+
+ section img#planetblue{
+     mix-blend-mode:screen;
+ }
+
+ section img#planetwhite {
+     mix-blend-mode: screen;
+ }
+
+ section img#planetyellow{
+     mix-blend-mode:screen;
+ }
+#greetings {
+    color:white;
+    white-space: nowrap;
+    /*margin-bottom: 450px;*/
+    font-size: 5.5vw;
+    
+    font-weight: 800;
+    text-align:justify;
+}
+
+section img#foreground{
+   z-index:10;
+}
+.sec {
+    position: relative;
+    padding: 100px;
+    background: #120325;
+    
+}
+    /*.sec h2 {
+        font-size: 8em;
+        margin-bottom: 10px;
+        
+        color: #a000ff;*/
+       /* text-transform: uppercase;*/
+        /*font-weight: 900;*/
+       
+
+    /*}*/
+   /* .sec p {
+        font-size: 1em;
+        color: white;
+        z-index:1000;
+    }*/
+#btn {
+    text-decoration: none;
+    padding: 8px 30px;
+    display: inline-block;
+    background: white;
+    color: black;
+    font-weight: 700;
+    font-size: 1.5em;
+    transform: translateY(10px);
+   /* margin-bottom: 350px;*/
+    
+    border-radius:20px;
+}
+    #btn:hover {
+        background: #201f1f;
+        color: white;
+    }
+
+.bttn {
+    position: absolute;
+    top: 100px;
+    right: 170px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 10000;
+}
+.SectionName {
+    position: relative;
+    width: 100%;
+    height:250px;
+    /*justify-content: center;*/
+    /* align-items:center;*/
+    background: #120325;
+}
+    .SectionName h2 {
+        color: white;
+        white-space: nowrap;
+        margin-right: 1450px;
+        font-size: 6.5vw;
+        font-weight: 800;
+        text-align: justify;
+    }
+.para {
+    background-color: #120325;
+    color:white;
+}
