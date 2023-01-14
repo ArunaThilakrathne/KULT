@@ -13,23 +13,26 @@
         <a href="#" class="logo" style="color:white">CODE KULT</a>
         <ul>
             <li><a asp-controller="Home" asp-action="Index">Home</a></li>
-            <li><a asp-controller="Post" asp-action="Post">Work</a></li>
+            <li><a asp-controller="Post" asp-action="#">Work</a></li>
 
         </ul>
     </header>
    
             @RenderBody()
-           
-     
 
+   
+<div class="ftr">
     <footer class="footer text-muted">
         <div class="foot">
-             &copy; 2023 - KULT - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+             &copy; 2023 - KULT - <a asp-area="" asp-controller="Home" asp-action="#">Privacy</a>
         </div>
     </footer>
+    </div>
+    
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/runtime.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

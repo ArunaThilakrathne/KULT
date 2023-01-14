@@ -5,8 +5,28 @@
       "PackagePath": "staticwebassets\\Wanderer.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\292.jpg",
+      "PackagePath": "staticwebassets\\css\\292.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\AdobeStock_116837828_Preview.jpg",
+      "PackagePath": "staticwebassets\\css\\AdobeStock_116837828_Preview.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Amatic-Bold.ttf",
       "PackagePath": "staticwebassets\\css\\Amatic-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Heart.png",
+      "PackagePath": "staticwebassets\\css\\Heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\IMG_3320 (2).jpg",
+      "PackagePath": "staticwebassets\\css\\IMG_3320 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\IMG_3320.jpg",
+      "PackagePath": "staticwebassets\\css\\IMG_3320.jpg"
     },
     {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Pogo.ttf",
@@ -21,12 +41,20 @@
       "PackagePath": "staticwebassets\\css\\background.png"
     },
     {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\download.jpg",
+      "PackagePath": "staticwebassets\\css\\download.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\dust.png",
       "PackagePath": "staticwebassets\\css\\dust.png"
     },
     {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\foreground.png",
       "PackagePath": "staticwebassets\\css\\foreground.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\love__death__robots_fanart_by_dust2196_dd2qda7.jpg",
+      "PackagePath": "staticwebassets\\css\\love__death__robots_fanart_by_dust2196_dd2qda7.jpg"
     },
     {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\middle.png",
@@ -45,16 +73,44 @@
       "PackagePath": "staticwebassets\\css\\planetyellow.png"
     },
     {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\pngegg (1).png",
+      "PackagePath": "staticwebassets\\css\\pngegg (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\pngegg (2).png",
+      "PackagePath": "staticwebassets\\css\\pngegg (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\scene.splinecode",
+      "PackagePath": "staticwebassets\\css\\scene.splinecode"
+    },
+    {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\skull.png",
+      "PackagePath": "staticwebassets\\css\\skull.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\snake.png",
+      "PackagePath": "staticwebassets\\css\\snake.png"
     },
     {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\stars.png",
       "PackagePath": "staticwebassets\\css\\stars.png"
     },
     {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Фотошоп, дизайн, портфолио.png",
+      "PackagePath": "staticwebassets\\css\\Фотошоп, дизайн, портфолио.png"
+    },
+    {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\js\\runtime.js",
+      "PackagePath": "staticwebassets\\js\\runtime.js"
     },
     {
       "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\js\\site.js",

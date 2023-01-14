@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Wanderer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Wanderer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\292.jpg",
+      "PackagePath": "staticwebassets\\css\\292.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\AdobeStock_116837828_Preview.jpg",
+      "PackagePath": "staticwebassets\\css\\AdobeStock_116837828_Preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Amatic-Bold.ttf",
+      "PackagePath": "staticwebassets\\css\\Amatic-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Heart.png",
+      "PackagePath": "staticwebassets\\css\\Heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\IMG_3320 (2).jpg",
+      "PackagePath": "staticwebassets\\css\\IMG_3320 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\IMG_3320.jpg",
+      "PackagePath": "staticwebassets\\css\\IMG_3320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Pogo.ttf",
+      "PackagePath": "staticwebassets\\css\\Pogo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\css\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\background.png",
+      "PackagePath": "staticwebassets\\css\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\download.jpg",
+      "PackagePath": "staticwebassets\\css\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\dust.png",
+      "PackagePath": "staticwebassets\\css\\dust.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\foreground.png",
+      "PackagePath": "staticwebassets\\css\\foreground.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\love__death__robots_fanart_by_dust2196_dd2qda7.jpg",
+      "PackagePath": "staticwebassets\\css\\love__death__robots_fanart_by_dust2196_dd2qda7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\middle.png",
+      "PackagePath": "staticwebassets\\css\\middle.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\planetblue.png",
+      "PackagePath": "staticwebassets\\css\\planetblue.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\planetwhite.png",
+      "PackagePath": "staticwebassets\\css\\planetwhite.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\planetyellow.png",
+      "PackagePath": "staticwebassets\\css\\planetyellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\pngegg (1).png",
+      "PackagePath": "staticwebassets\\css\\pngegg (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\pngegg (2).png",
+      "PackagePath": "staticwebassets\\css\\pngegg (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\scene.splinecode",
+      "PackagePath": "staticwebassets\\css\\scene.splinecode"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\skull.png",
+      "PackagePath": "staticwebassets\\css\\skull.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\snake.png",
+      "PackagePath": "staticwebassets\\css\\snake.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\stars.png",
+      "PackagePath": "staticwebassets\\css\\stars.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\css\\Фотошоп, дизайн, портфолио.png",
+      "PackagePath": "staticwebassets\\css\\Фотошоп, дизайн, портфолио.png"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\js\\runtime.js",
+      "PackagePath": "staticwebassets\\js\\runtime.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aruna\\source\\repos\\Wanderer\\Wanderer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Wanderer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Wanderer.props",
+      "PackagePath": "build\\Wanderer.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Wanderer.props",
+      "PackagePath": "buildMultiTargeting\\Wanderer.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Wanderer.props",
+      "PackagePath": "buildTransitive\\Wanderer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

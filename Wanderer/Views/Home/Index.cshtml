@@ -12,103 +12,84 @@
     <h2 id="greetings">HELLO!</h2>
     <img src="~/css/foreground.png" id="foreground" />
     <img src="~/css/dust.png" id="dust" />
+    <div class="bttn"><a href="#name" id="btn">EXPLORE</a></div>
+    <section class="sec"></section>
  </section>
-<div class="bttn"><a href="#sec" id="btn">EXPLORE</a></div>
-<section class="SectionName" id="sec">
-    <h2 id="name">I'm Aruna</h2>
-
-</section>
-<section class="para">
-    <p>
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum<br /><br />
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-        lorem ipsum lorem ipsum lorem ipsum lorem ipsum
-    </p>
-</section>
-
  
+    <section class="back">
+    <section class="SectionName">
+        <h2 id="name">I'm Aruna</h2>   
+    </section>
+    <section class="prof">
+        <img src="~/css/skull.png" id="skull"/>
+        
+    </section>
+    <section class="prof">
+        <img src="~/css/Heart.png" id="heart"/>
+        
+    </section>
+    <section class="prof">
+       <img src="~/css/snake.png" id="snake"/>
+       
+    </section>
+
+    </section>
+   <section class="back">
+       <img src="~/css/292.jpg" />
+   <section>
+   @*    <section class="pan">
+            
+    </section>*@
+        <section class="pan">
+      <img src="~/css/IMG_3320 (2).jpg" id="me"/>
+    </section>
+    <section class="pan">
+            <h2>HIKER CODER GAMER</h2>
+    </section>
+    </section>
+</section>
+<section class="back">
+ 
+@*  <section>*@
+        
+        <section class="undergrad">
+            <h2>Currently i'm a undergrad at uovt
+             in software engineering
+               </h2>
+        </section>
+        <section class="undergrad">
+            <img src="~/css/download.jpg" id="alien"/>
+        </section>
+        
+   @* </section>*@
+</section>
+<section class="back">
+    <section class="intrested">
+        <img src="~/css/love__death__robots_fanart_by_dust2196_dd2qda7.jpg" id="robot" />
+    </section>
+<section class="intrested">
+     
+    <h2>
+        Intrested in programming, Automation, UI UX design, Web development
+    </h2>
+</section>
+
+</section>
+ <section class="back">
+   <section>
+       <section class="san">
+       <img src="~/css/pngegg (1).png" id="sanGirl"/>
+    </section>
+        <section class="san">
+       <h2>stay psyched!</h2>
+    </section>
+    <section class="san">
+        <img src="~/css/pngegg (2).png" id="sangang" />
+    </section>
+    </section>
+</section>
+
+
  <script>
     let stars = document.getElementById('stars');
     let planetblue = document.getElementById('planetblue');
@@ -121,25 +102,31 @@
     let greetings = document.getElementById('greetings');
     let btn = document.getElementById('btn');
     let name = document.getElementById('name');
-    
-    
-
+    let skull = document.getElementById('skull');
+    let heart  = document.getElementById('heart');
+    let snake = document.getElementById('snake');
     window.addEventListener('scroll' , function(){
     let value = window.scrollY;
     stars.style.left = value * 0.25 + 'px';
     planetblue.style.top = value * 1.25 + 'px';
-    planetwhite.style.top = value * 2.25 + 'px';
-    planetyellow.style.top = value * 0.5 + 'px';
-    background.style.top = value * 0.5 + 'px';
-    middle.style.top = value * 0.5 + 'px';
+    planetwhite.style.top = value * 2 + 'px';
+    planetyellow.style.top = value * 1.5 + 'px';
+   // background.style.top = value * 0.5 + 'px';
+    //middle.style.top = value * 0.5 + 'px';
+   //if(value<=290){
+   // skull.style.left = value * 0.5 + 'px';
+   //}
+   //if(value<=290){
+   // heart.style.left = value * 0.5 + 'px';
+   //}
+   //     if (value <= 290) {
+   //         snake.style.left = value * 0.5 + 'px';
+   //     }
+    
         if (value <= 96) {
    btn.style.marginLeft = value * 1.5 + 'px';
         } ;
-    greetings.style.marginTop = value * 1.5 + 'px';
-
-        if(value<=400) {
-       name.style.marginLeft = value * 2.5 + 'px';
-    } 
+    greetings.style.marginTop = value * 7.5 + 'px'; 
 
     })
  </script>
